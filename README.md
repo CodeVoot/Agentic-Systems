@@ -1,16 +1,16 @@
-# 🤖 Agentic Systems Learning Repository
+# Agentic Systems Learning Repository
 
 This repository contains my personal implementation and notes while learning **Agentic Systems** from the Udemy course by *Instructor Eddoner*. The goal of this repo is to reinforce concepts by rewriting, experimenting, and extending the code demonstrated in the course.
 
 ---
 
-## 📚 About the Course
+##  About the Course
 
 The course focuses on building **agentic systems**—intelligent systems capable of autonomous decision-making, task execution, and interaction using modern AI tools and frameworks.
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 * Recreate code from the course in my own style
 * Deepen understanding through hands-on practice
@@ -19,7 +19,7 @@ The course focuses on building **agentic systems**—intelligent systems capable
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 * Fundamentals of Agentic Systems
 * Task Planning & Execution
@@ -30,7 +30,7 @@ The course focuses on building **agentic systems**—intelligent systems capable
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Python
 * LLM APIs (e.g., OpenAI or similar)
@@ -38,7 +38,7 @@ The course focuses on building **agentic systems**—intelligent systems capable
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Install Anaconda (Recommended)**
    Download and install **Anaconda Navigator** from the official website. It helps manage environments and dependencies easily.
@@ -73,14 +73,14 @@ The course focuses on building **agentic systems**—intelligent systems capable
     jupyter notebook
    ```
 
-## 📝 Notes
+##  Notes
 
 This repository is **for learning purposes only**.
 All original concepts and structured teaching belong to the course instructor.
 
 ---
 
-## 🔄 Progress Tracking
+## Progress Tracking
 
 * [ ] Basics of Agentic Systems
 * [ ] Building Simple Agents
@@ -89,7 +89,7 @@ All original concepts and structured teaching belong to the course instructor.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add more real-world projects
 * Optimize agent workflows
